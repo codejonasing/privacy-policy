@@ -191,7 +191,7 @@ Our services are not directed to children under the age of 13 (or under 16 in th
 
 ## 10. International Data Transfers
 
-We are based in [Your Country/Region]. If you are accessing our services from outside [Your Country/Region], please be aware that your information may be transferred to, stored, and processed in countries with different data protection laws than your own.
+We are based in <!-- TODO: insert company country/region -->. If you are accessing our services from outside our home jurisdiction, please be aware that your information may be transferred to, stored, and processed in countries with different data protection laws than your own.
 
 When we transfer personal data from the EEA or UK to countries not recognized as providing an adequate level of data protection, we implement appropriate safeguards such as:
 
@@ -208,7 +208,7 @@ If you have questions, concerns, or requests regarding this Privacy Policy or ou
 **Nosemax**
 Privacy Team / Data Protection Officer
 Email: privacy@nosemax.com
-Address: [Your Company Address]
+Address: <!-- TODO: insert company address -->
 
 For EEA/UK users, you may also contact your local data protection supervisory authority. A list of EEA supervisory authorities is available at [https://edpb.europa.eu/about-edpb/about-edpb/members_en](https://edpb.europa.eu/about-edpb/about-edpb/members_en).
 
